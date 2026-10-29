@@ -12,4 +12,4 @@ function birlashtir(obj1, obj2) {
   }
   return result;
 }
-console.log(birlashtir({a: 1}, {b: 2}));
+console.log(birlashtir({a: 1}, {b: 2}))
