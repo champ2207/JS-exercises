@@ -12,4 +12,4 @@ function findMax(numbers) {
     }
     return result;
 }
-console.log(findMax([3,9,1,7]));
+console.log(findMax([99,3,9,1,7])); 
